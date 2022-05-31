@@ -1,0 +1,50 @@
+.header{
+    background-color: rgb(182, 175, 175);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    width: 70%;
+    background-color: cyan;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.mainblok{
+    display: flex;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.n1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.b1{
+    background-color: aliceblue;
+    width: 45%;
+    text-align: center;
+    margin: 5px;
+    }
+
+.b2{
+    background-color: aliceblue;
+    width: 90%;
+    margin: 5px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+}
+.f123{
+    background-color: rgb(179, 181, 192);
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+}
